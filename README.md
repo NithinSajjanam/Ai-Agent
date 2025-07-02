@@ -10,7 +10,7 @@
 
 ## 🧠 Overview
 
-**Browser-Use Web UI** is an interactive, Gradio-based front end designed for running **AI agents** that can browse and interact with the web like a human. It extends the capabilities of the [browser-use](https://github.com/browser-use/browser-use) core by enabling persistent browser sessions, visual feedback, and multi-LLM support (including OpenAI, Gemini, DeepSeek, Azure, Ollama, and more).
+**Browser-Use Web UI** is an interactive, Gradio-based front end designed for running **AI agents** that can browse and interact with the web like a human. It extends the capabilities of the  core by enabling persistent browser sessions, visual feedback, and multi-LLM support (including OpenAI, Gemini, DeepSeek, Azure, Ollama, and more).
 
 > Run smart autonomous agents that can click, type, navigate, and reason – right inside your browser!
 
