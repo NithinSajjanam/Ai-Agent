@@ -128,3 +128,22 @@ Built with love for the open-source AI community.
 
 🧠 browser-use core
 
+
+# Ai-Agent
+
+
+Frist Command :
+
+.venv\Scripts\activate
+
+
+Next Command :
+
+To Run the Project python webui.py --ip 127.0.0.1 --port 7788
+
+
+(OR)
+
+Use This Commmand :
+
+.\.venv\Scripts\Activate.ps1 && python webui.py --ip 127.0.0.1 --port 7788
